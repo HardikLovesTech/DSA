@@ -13,7 +13,7 @@ To get the most out of this repository, you should have:
 
 ### Cloning the Repository
 ```bash
-$ git clone https://github.com/your-username/dsa-repo.git
+$ git clone git@github.com:HardikLovesTech/DSA.git
 $ cd dsa-repo
 ```
 
@@ -40,5 +40,5 @@ This repository is built with the help of multiple resources and platforms, incl
 - **[CodeChef](https://www.codechef.com/)**
 - **[GeeksforGeeks](https://www.geeksforgeeks.org/)**
 
-# README [📚 Index](./Index.md)
+## README [📚 Index](./Index.md)
 
