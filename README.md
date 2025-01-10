@@ -39,5 +39,6 @@ This repository is built with the help of multiple resources and platforms, incl
 - **[HackerRank](https://www.hackerrank.com/)**
 - **[CodeChef](https://www.codechef.com/)**
 - **[GeeksforGeeks](https://www.geeksforgeeks.org/)**
-- **[Le
+
+# README [📚 Index](./Index.md)
 
